@@ -1,0 +1,30 @@
+body{background-color: rgb(10, 25, 92);}
+h1,p {color: rgb(82, 24, 121);font-family: "Concert One", sans-serif;}
+h1 {text-align: center;}
+p{text-align: center; margin: 40px 120px;}
+
+.BARRA {background: #7c3683;
+    padding: 20px;
+    border-radius: 20px}
+
+
+nav ul li {display: inline-block;}
+
+img{border-radius: 100px;}
+
+nav ul li a{
+    color: white;
+    padding: 10px;
+    text-decoration:none;}
+    
+
+
+nav ul li a:hover {
+    color: rgb(255, 255, 255);
+    background: rgb(29, 40, 131);
+    border-radius:20px}
+
+  .saibamais{margin: 0px;text-align: left;}  
+  
+
+
